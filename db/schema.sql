@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS nerdyblog_db;
+CREATE DATABASE nerdyblog_db;
